@@ -27,18 +27,18 @@ pip install -r requirements.txt
 
 ## Important Update on Running the Script
 
-> The main script filename has been updated from `sms_bombing.py` to **`SMS_Bombing.py`**.
+> The main script filename has been updated from `sms.py` to **`sms.py`**.
 
 Run the script using:
 
 ```bash
-python SMS_Bombing.py
+python sms.py
 ```
 
 If `python` doesn't work, try:
 
 ```bash
-python3 SMS_Bombing.py
+python3 sms.py
 ```
 
 ---
@@ -53,7 +53,7 @@ pkg install python git -y
 git clone https://github.com/Forhadj/SMS-Bombing-Tool.git
 cd SMS-Bombing-Tool
 pip install -r requirements.txt
-python SMS_Bombing.py
+python sms.py
 ```
 
 ### Windows (Command Prompt / PowerShell)
@@ -62,7 +62,7 @@ python SMS_Bombing.py
 git clone https://github.com/Forhadj/SMS-Bombing-Tool.git
 cd SMS-Bombing-Tool
 pip install -r requirements.txt
-python SMS_Bombing.py
+python sms.py
 ```
 
 ### Linux / macOS
@@ -72,7 +72,7 @@ sudo apt update && sudo apt install python3 git -y
 git clone https://github.com/Forhadj/SMS-Bombing-Tool.git
 cd SMS-Bombing-Tool
 pip3 install -r requirements.txt
-python3 SMS_Bombing.py
+python3 sms.py
 ```
 
 ---
