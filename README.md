@@ -1,12 +1,12 @@
 ````markdown
-# Forhad-FB-Script
+# SMS Bombing Tool
 
-A Python-based tool to simulate Facebook device-based login using random user-agents. Developed by **Forhad Hasan** for educational and demonstration purposes.
+A Python-based tool to simulate SMS bombing using random phone numbers. Developed by **Forhad Hasan** for educational and demonstration purposes.
 
 ## Features
 
-- Device-based login simulation
-- Random user-agent generation
+- SMS bombing simulation
+- Random phone number generation
 - Clean terminal UI with basic menu
 - Colorful branding and banner display
 
@@ -15,8 +15,8 @@ A Python-based tool to simulate Facebook device-based login using random user-ag
 Clone the repository:
 
 ```bash
-git clone https://github.com/Forhadj/forhad-fb-script.git
-cd forhad-fb-script
+git clone https://github.com/Forhadj/SMS-Bombing-Tool.git
+cd SMS-Bombing-Tool
 ````
 
 Install dependencies:
@@ -27,18 +27,18 @@ pip install -r requirements.txt
 
 ## Important Update on Running the Script
 
-> The main script filename has been updated from `forhad_script.py` to **`Forhad_Fb.py`**.
+> The main script filename has been updated from `sms_bombing.py` to **`SMS_Bombing.py`**.
 
 Run the script using:
 
 ```bash
-python Forhad_Fb.py
+python SMS_Bombing.py
 ```
 
-If `python` command doesn't work, try:
+If `python` doesn't work, try:
 
 ```bash
-python3 Forhad_Fb.py
+python3 SMS_Bombing.py
 ```
 
 ---
@@ -50,29 +50,29 @@ python3 Forhad_Fb.py
 ```bash
 pkg update -y && pkg upgrade -y
 pkg install python git -y
-git clone https://github.com/Forhadj/forhad-fb-script.git
-cd forhad-fb-script
+git clone https://github.com/Forhadj/SMS-Bombing-Tool.git
+cd SMS-Bombing-Tool
 pip install -r requirements.txt
-python Forhad_Fb.py
+python SMS_Bombing.py
 ```
 
 ### Windows (Command Prompt / PowerShell)
 
 ```cmd
-git clone https://github.com/Forhadj/forhad-fb-script.git
-cd forhad-fb-script
+git clone https://github.com/Forhadj/SMS-Bombing-Tool.git
+cd SMS-Bombing-Tool
 pip install -r requirements.txt
-python Forhad_Fb.py
+python SMS_Bombing.py
 ```
 
 ### Linux / macOS
 
 ```bash
 sudo apt update && sudo apt install python3 git -y
-git clone https://github.com/Forhadj/forhad-fb-script.git
-cd forhad-fb-script
+git clone https://github.com/Forhadj/SMS-Bombing-Tool.git
+cd SMS-Bombing-Tool
 pip3 install -r requirements.txt
-python3 Forhad_Fb.py
+python3 SMS_Bombing.py
 ```
 
 ---
@@ -96,4 +96,8 @@ This tool is created for educational and demonstration purposes only. Use respon
 
 © 2025 Forhad Hasan
 
+```
+
+---
+ 
 ```
